@@ -1,2 +1,1 @@
-# discord-server
-FMS Scrims SA - The biggest scrims discord server of south america
+## FMS Scrims SA - The biggest scrims discord server of south america
